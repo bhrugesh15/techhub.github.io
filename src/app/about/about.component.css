@@ -1,0 +1,30 @@
+.container{
+    margin-top: 50px;
+}
+.text h4{
+    font-size: 30px;
+    padding-top: 30px;
+    margin: 20px 0;
+}
+.text h4 span{
+    color: skyblue;
+}
+.text h5{
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.text p{
+    line-height: 2;
+    letter-spacing: 2px;
+}
+.text i{
+    margin-top: 20px;
+    margin-right: 5px;
+    font-size: 30px;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 5px;
+}
